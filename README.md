@@ -1,2 +1,2 @@
-# boi
-Custom html boilerplate outfitted with Gulp and Sass
+# Parallax Narrative
+Basic application of parallax within html. Inspiration from Pink Floyd.
